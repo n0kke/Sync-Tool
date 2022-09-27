@@ -1,0 +1,26 @@
+[
+    {
+        "address": "XXXXXXXXXXXX",
+        "serverTypes": ["XXX", "XXX", "XXX"]   
+    },
+    {
+        "address": "bla2.infineon.com",
+        "serverTypes": ["XXX", "XXX", "XXX"]
+    },
+    {
+        "address": "bla3.infineon.com",
+        "serverTypes": ["XXX", "XXX", "XXX"]
+    },
+    {
+        "address": "bla4.infineon.com",
+        "serverTypes": ["XXX", "XXX", "XXX"]   
+    },
+    {
+        "address": "bla5.infineon.com",
+        "serverTypes": ["XXX"]
+    },
+    {
+        "address": "bla6.infineon.com",
+        "serverTypes": ["XXX"]
+    }
+]

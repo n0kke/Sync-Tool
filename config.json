@@ -4,23 +4,23 @@
         "serverTypes": ["XXX", "XXX", "XXX"]   
     },
     {
-        "address": "bla2.infineon.com",
+        "address": "XXXXXXXXXXXX",
         "serverTypes": ["XXX", "XXX", "XXX"]
     },
     {
-        "address": "bla3.infineon.com",
+        "address": "XXXXXXXXXXXX",
         "serverTypes": ["XXX", "XXX", "XXX"]
     },
     {
-        "address": "bla4.infineon.com",
+        "address": "XXXXXXXXXXXX",
         "serverTypes": ["XXX", "XXX", "XXX"]   
     },
     {
-        "address": "bla5.infineon.com",
+        "address": "XXXXXXXXXXXX",
         "serverTypes": ["XXX"]
     },
     {
-        "address": "bla6.infineon.com",
+        "address": "XXXXXXXXXXXX",
         "serverTypes": ["XXX"]
     }
 ]
